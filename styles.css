@@ -1,8 +1,11 @@
 /*  your css code here. If applicable */
 
-nav{
+.container{
 	background-color:rgb(211, 211, 211);	
 	padding:10px;
+	
+}
+ul{
 	display:flex;
 }
 li {
